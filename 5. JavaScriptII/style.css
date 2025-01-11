@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btnContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.btnContainer button{
+    background: black;
+    color: white;
+    font-size: 16px;
+    padding: 1rem 2rem;
+}
+.count h1{
+    font-size: 80px;
+}
