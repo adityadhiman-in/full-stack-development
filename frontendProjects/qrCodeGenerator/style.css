@@ -49,14 +49,16 @@ h1{
     display: none;
 }
 button{
+    cursor: pointer;
     padding: .5rem;
     border: 1px solid #394867;
     width: 100%;
     border-radius: .25rem;
     color: #F1F6F9;
-    background: #14274E;
+    background: #14274e;
     font-size: 1rem;
 }
 .show{
     display: inline;
+    padding: 2rem;
 }
