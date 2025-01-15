@@ -36,3 +36,13 @@ We will cover the following topics:
    - Relational databases (MySQL, PostgreSQL)
    - NoSQL databases (MongoDB)
    - Database optimization techniques
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions!
+
+- [Website](https://adityadhiman.in)
+- [GitHub](https://github.com/adityadhiman-in)
+- [LinkedIn](https://www.linkedin.com/in/adityadhiman-in)
+
+Made with ❤️ by [Aditya Dhiman](https://adityadhiman.in)
